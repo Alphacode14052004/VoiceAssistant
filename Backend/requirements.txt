@@ -1,0 +1,12 @@
+Flask
+numpy
+pydub
+pyttsx3
+SpeechRecognition
+noisereduce
+python-dotenv
+streamlit
+langchain
+faiss-cpu
+ffmpeg-python
+langchain_openai

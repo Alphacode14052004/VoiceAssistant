@@ -1,0 +1,179 @@
+{
+    "KFC MENU CHENNAI": [
+        {
+            "Deal": "Hot & Crispy Combo",
+            "Description": "2pc Chicken, Wings, Dips, Pepsi",
+            "Savings": "Rs. 75 off",
+            "Price (in Rs.)": "299",
+            "image": "hot_crispy.jpg"
+        },
+        {
+            "Deal": "Signature Bucket",
+            "Description": "4pc Chicken, Wings, Strips, Dips, Pepsi",
+            "Savings": "35% off",
+            "Price (in Rs.)": "599",
+            "image": "Signature_Bucket.jpg"
+        },
+        {
+            "Deal": "Special 11 Meal",
+            "Description": "Chicken Legs, Peri Strips, Wings",
+            "Savings": "Rs. 164 off",
+            "Price (in Rs.)": "435",
+            "image": "Special_11_Meal.jpg"
+        },
+        {
+            "Deal": "Hitter Savings",
+            "Description": "Chicken Legs, Wings",
+            "Savings": "Rs. 132 off",
+            "Price (in Rs.)": "349",
+            "image": "Hitter_Savings.jpg"
+        },
+        {
+            "Deal": "Classic Zinger Combo",
+            "Description": "Zinger Burger, Fries, Pepsi",
+            "Savings": "Rs. 26 off",
+            "Price (in Rs.)": "199",
+            "image": "Classic_Zinger.jpg"
+        },
+        {
+            "Deal": "Sixer Savings",
+            "Description": "Chicken Legs, Peri Strips",
+            "Savings": "Rs. 249 off",
+            "Price (in Rs.)": "499",
+            "image": "Sixer_Savings.jpg"
+        },
+        {
+            "Deal": "Super Savings",
+            "Description": "Chicken Rolls, Wings, Pepsi",
+            "Savings": "Rs. 75 off",
+            "Price (in Rs.)": "299",
+            "image": "Super_Savings.jpg"
+        },
+        {
+            "Deal": "Veg Lovers Meal",
+            "Description": "Veg Burgers, Longers, Fries, Pepsi",
+            "Savings": "Rs. 252 off",
+            "Price (in Rs.)": "399",
+            "image": "Veg_Lovers_Meal.jpg"
+        },
+        {
+            "Deal": "Leg Piece Deal",
+            "Description": "Chicken Legs, Pepsi",
+            "Savings": "Rs. 308 off",
+            "Price (in Rs.)": "399",
+            "image": "Leg_Piece.jpg"
+        },
+        {
+            "Deal": "New Chicken Longer",
+            "Description": "Longer Burgers, Strips, Pepsi",
+            "Savings": "40% off",
+            "Price (in Rs.)": "179",
+            "image": "Chicken_Longer.jpg"
+        },
+        {
+            "Deal": "New Single Chicken Rolls",
+            "Description": "Chicken Rolls, Strips, Pepsi",
+            "Savings": "44% off",
+            "Price (in Rs.)": "149",
+            "image": "Single_Chicken.jpg"
+        },
+        {
+            "Deal": "New Rizo Rice Bowlz",
+            "Description": "Rice Bowlz, Strips, Pepsi",
+            "Savings": "31% off",
+            "Price (in Rs.)": "199",
+            "image": "Rizo_Rice_Bowlz.jpg"
+        },
+        {
+            "Deal": "Family Deal",
+            "Description": "Chicken Zingers, Popcorn, Fries, Pepsi",
+            "Savings": "-",
+            "Price (in Rs.)": "699",
+            "image": "Family_Deal.jpg"
+        },
+        {
+            "Deal": "Classic Zinger",
+            "Description": "Chicken Fillet, Cheese, Veggies, Mayo",
+            "Savings": "-",
+            "Price (in Rs.)": "199",
+            "image": "Classic_ZZinger.jpg"
+        },
+        {
+            "Deal": "Caribbean Spicy Zinger",
+            "Description": "Spicy Burger, Popcorn, Pepsi",
+            "Savings": "-",
+            "Price (in Rs.)": "199",
+            "image": "Caribbean_Spicy_Zinger.jpg"
+        },
+        {
+            "Deal": "Veg Zinger Lovers",
+            "Description": "Veg Burger, Patties, Pepsi",
+            "Savings": "-",
+            "Price (in Rs.)": "199",
+            "image": "vegg_zinger.jpg"
+        },
+        {
+            "Deal": "Tandoori Zinger Deal",
+            "Description": "Tandoori Burger, Wings, Patty, Pepsi",
+            "Savings": "-",
+            "Price (in Rs.)": "199",
+            "image": "Zinger Tandoori Box.jpg"
+        },
+        {
+            "Deal": "Leg, Wings, Strips Combo",
+            "Description": "Chicken Leg, Wings, Strips, Pepsi",
+            "Savings": "-",
+            "Price (in Rs.)": "399",
+            "image": "Leg, Wings, Strips Combo.jpg"
+        },
+        {
+            "Deal": "Popcorn Rice Bowlz Deal",
+            "Description": "Popcorn Rice Bowlz, Wings, Pepsi",
+            "Savings": "Rs. 118 off",
+            "Price (in Rs.)": "299",
+            "image": "Popcorn Rice Bowlz Deal.jpg"
+        },
+        {
+            "Deal": "Smoky Red Chicken",
+            "Description": "Grilled Chicken",
+            "Savings": "-",
+            "Price (in Rs.)": "199",
+            "image": "Smoky Red Chicken.jpg"
+        },
+        {
+            "Deal": "Chicken Popcorn Pack",
+            "Description": "Popcorn Chicken, Chili Lime",
+            "Savings": "-",
+            "Price (in Rs.)": "99",
+            "image": "Chicken Popcorn Pack.jpg"
+        },
+        {
+            "Deal": "Veg Roll Meal",
+            "Description": "Veg Rolls, Fries, Pepsi",
+            "Savings": "-",
+            "Price (in Rs.)": "199",
+            "image": "Veg Roll Meal.jpg"
+        },
+        {
+            "Deal": "Chicken Roll Combo",
+            "Description": "Chicken Rolls, Fries, Pepsi",
+            "Savings": "-",
+            "Price (in Rs.)": "199",
+            "image": "Chicken Roll Combo.jpg"
+        },
+        {
+            "Deal": "Dessert Special",
+            "Description": "Chocolate Cake, Mousse Cake",
+            "Savings": "-",
+            "Price (in Rs.)": "99",
+            "image": "Dessert.jpg"
+        },
+        {
+            "Deal": "Add-Ons",
+            "Description": "Dips, Pepsi, 7UP, Mirinda",
+            "Savings": "-",
+            "Price (in Rs.)": "Varies",
+            "image": "Add-ons.jpg"
+        }
+    ]
+}

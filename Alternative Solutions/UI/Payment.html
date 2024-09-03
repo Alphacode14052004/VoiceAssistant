@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KFC - Payment</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: url('Payment WP1.jpg') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+        .container {
+            max-width: 600px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            position: relative;
+            z-index: 2;
+        }
+        .payment-options {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 1rem;
+        }
+        .payment-option {
+            background-color: #d32323;
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            width: 25%;
+        }
+        .payment-option:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            background-color: #2d2c2c;
+        }
+        .amount {
+            font-size: 2rem;
+            text-align: center;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="container">
+        <h2>Payment Options</h2>
+        <div class="payment-options">
+            <div class="payment-option" id="upi">
+                <h3>UPI</h3>
+                <p>Pay using UPI</p>
+            </div>
+            <div class="payment-option" id="card">
+                <h3>Card</h3>
+                <p>Pay using Debit/Credit Card</p>
+            </div>
+            <div class="payment-option" id="cash">
+                <h3>Cash</h3>
+                <p>Pay with Cash on Delivery</p>
+            </div>
+        </div>
+        <div class="amount">
+            <p>Total Amount: $20.00</p>
+        </div>
+    </div>
+</body>
+</html>
